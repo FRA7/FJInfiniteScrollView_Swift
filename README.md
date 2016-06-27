@@ -8,3 +8,5 @@
 
 ##使用方法
 拷贝FJInfiniteScrollView文件夹到项目中
+
+若要查看demo 请先使用 pod update 更新一下cocoapod库
